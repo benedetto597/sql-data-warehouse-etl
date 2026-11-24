@@ -1,0 +1,4 @@
+*.sql text eol=crlf
+*.dtsx -text
+*.ktr -text
+*.kjb -text
